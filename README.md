@@ -1,1 +1,2 @@
-# ConsoleApp_Project_VF_MAIN_CSharp
+# C# ConsoleApp VF WEC-2023
+TUGAS C# WEC 2023-2024
