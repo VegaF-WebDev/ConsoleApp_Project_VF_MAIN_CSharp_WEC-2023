@@ -1,0 +1,29 @@
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.csproj.AssemblyReference.cache
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.csproj.CoreCompileInputs.cache
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe.config
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.pdb
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.exe
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.pdb
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe.config
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.exe
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.pdb
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.pdb
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.csprojResolveAssemblyReference.cache
+D:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe.config
+D:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.exe
+D:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.pdb
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe.config
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.pdb
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.csproj.AssemblyReference.cache
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.csproj.CoreCompileInputs.cache
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.exe
+H:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.pdb
+D:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe.config
+D:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.exe
+D:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.pdb
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\bin\Debug\CA_Project_VF_MAIN.exe.config
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.exe
+G:\TGS-VF\WEC-2023\LK2_(2023-2024)\Latihan\Komputer\C# Console\CA_Project_VF_MAIN\CA_Project_VF_MAIN\obj\Debug\CA_Project_VF_MAIN.pdb
